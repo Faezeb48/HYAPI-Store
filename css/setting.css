@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section.wrapper{
+    width: 100%;
+}
+@font-face {
+    font-family: bree-serif;
+    src: url('../fonts/BreeSerif-Regular.ttf');
+}
+@font-face {
+    font-family: eszar;
+    src: url('../fonts/Eczar-Regular.ttf');
+}
+@font-face {
+    font-family:ComicNeue ;
+    src: url('../fonts/ComicNeue-Regular.ttf');
+}

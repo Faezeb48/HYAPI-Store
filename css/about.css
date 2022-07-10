@@ -1,0 +1,335 @@
+@media (min-width:1200px){
+section.about{
+    width: 100%;
+    height: 577px;
+    background-color:  #fff8f5;
+}
+section.about>h1{
+    width: 30%;
+    height: auto;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+    text-align: center;
+    color: #000000;
+    font-family: bree-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+section.about>div{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    padding-bottom: 100px;
+    box-sizing: border-box;
+ 
+}
+section.about>div>div{
+    width: 20%;
+    height: auto;
+    padding: 15px ;
+}
+section.about>div>div>img{
+    display: block;
+    width: 50px;
+    height:60px;
+    margin: 10px auto;
+    line-height: 60px;
+}
+section.about>div>div>h3{
+    width: auto;
+    height: 50px;
+    margin: 10px auto;
+    text-transform: uppercase;
+    color: #605d5d;
+    line-height: 50px;
+    text-align: center;
+    font-size: 18px;
+    font-family: eszar;
+
+}
+section.about>div>div>p{
+    width: auto;
+    height: auto;
+    color: #605d5d;
+    font-size: 12px;
+    font-family: eszar;
+    text-align: center;
+    padding: 10px;
+}
+section.about>div>div>img:hover~h3{
+    color: #00a2e8;
+}
+}
+@media (min-width:992px) and (max-width:1200px) {
+    section.about{
+        width: 100%;
+        height: 577px;
+        background-color:  #fff8f5;
+    }
+    section.about>h1{
+        width: 30%;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        box-sizing: border-box;
+        text-align: center;
+        color: #000000;
+        font-family: bree-serif;
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    section.about>div{
+        width: 100%;
+        height: 300px;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        padding-bottom: 100px;
+        box-sizing: border-box;
+     
+    }
+    section.about>div>div{
+        width: 20%;
+        height: auto;
+        padding: 15px ;
+    }
+    section.about>div>div>img{
+        display: block;
+        width: 50px;
+        height:60px;
+        margin: 10px auto;
+        line-height: 60px;
+    }
+    section.about>div>div>h3{
+        width: auto;
+        height: 50px;
+        margin: 10px auto;
+        text-transform: uppercase;
+        color: #605d5d;
+        line-height: 50px;
+        text-align: center;
+        font-size: 18px;
+        font-family: eszar;
+    
+    }
+    section.about>div>div>p{
+        width: auto;
+        height: auto;
+        color: #605d5d;
+        font-size: 12px;
+        font-family: eszar;
+        text-align: center;
+        padding: 10px;
+    }
+    section.about>div>div>img:hover~h3{
+        color: #00a2e8;
+    }
+}
+@media (min-width:768px) and (max-width:992px) {
+    section.about{
+        width: 100%;
+        height: auto;
+        background-color:  #fff8f5;
+    }
+    section.about>h1{
+        width: 30%;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        box-sizing: border-box;
+        text-align: center;
+        color: #000000;
+        font-family: bree-serif;
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    section.about>div{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        padding-bottom: 100px;
+        box-sizing: border-box;
+     
+    }
+    section.about>div>div{
+        width: 40%;
+        height: auto;
+        padding: 15px ;
+    }
+    section.about>div>div>img{
+        display: block;
+        width: 50px;
+        height:60px;
+        margin: 10px auto;
+        line-height: 60px;
+    }
+    section.about>div>div>h3{
+        width: auto;
+        height: 50px;
+        margin: 10px auto;
+        text-transform: uppercase;
+        color: #605d5d;
+        line-height: 50px;
+        text-align: center;
+        font-size: 18px;
+        font-family: eszar;
+    
+    }
+    section.about>div>div>p{
+        width: auto;
+        height: auto;
+        color: #605d5d;
+        font-size: 12px;
+        font-family: eszar;
+        text-align: center;
+        padding: 10px;
+    }
+    section.about>div>div>img:hover~h3{
+        color: #00a2e8;
+    }
+}
+@media (min-width:560px) and (max-width:768px) {
+    section.about{
+        width: 100%;
+        height: auto;
+        background-color:  #fff8f5;
+    }
+    section.about>h1{
+        width: 30%;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        box-sizing: border-box;
+        text-align: center;
+        color: #000000;
+        font-family: bree-serif;
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    section.about>div{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        padding-bottom: 100px;
+        box-sizing: border-box;
+     
+    }
+    section.about>div>div{
+        width: 50%;
+        height: auto;
+        padding: 15px ;
+    }
+    section.about>div>div>img{
+        display: block;
+        width: 50px;
+        height:60px;
+        margin: 10px auto;
+        line-height: 60px;
+    }
+    section.about>div>div>h3{
+        width: auto;
+        height: 50px;
+        margin: 10px auto;
+        text-transform: uppercase;
+        color: #605d5d;
+        line-height: 50px;
+        text-align: center;
+        font-size: 18px;
+        font-family: eszar;
+    
+    }
+    section.about>div>div>p{
+        width: auto;
+        height: auto;
+        color: #605d5d;
+        font-size: 12px;
+        font-family: eszar;
+        text-align: center;
+        padding: 10px;
+    }
+    section.about>div>div>img:hover~h3{
+        color: #00a2e8;
+    }
+}
+@media (max-width:560px){
+    section.about{
+        width: 100%;
+        height: auto;
+        background-color: #fff8f5;
+    }
+    section.about>h1{
+        width: 40%;
+        height: auto;
+        margin: 0 auto;
+        padding-top: 100px;
+        padding-bottom: 50px;
+        box-sizing: border-box;
+        text-align: center;
+        color: #000000;
+        font-family: bree-serif;
+        font-size: 30px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+    }
+    section.about>div{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        padding-bottom: 100px;
+        box-sizing: border-box;
+     
+    }
+    section.about>div>div{
+        width: 50%;
+        height: auto;
+        padding: 15px ;
+    }
+    section.about>div>div>img{
+        display: block;
+        width: 50px;
+        height:60px;
+        margin: 10px auto;
+        line-height: 60px;
+    }
+    section.about>div>div>h3{
+        width: auto;
+        height: 50px;
+        margin: 10px auto;
+        text-transform: uppercase;
+        color: #605d5d;
+        line-height: 50px;
+        text-align: center;
+        font-size: 18px;
+        font-family: eszar;
+    
+    }
+    section.about>div>div>p{
+        width: auto;
+        height: auto;
+        color: #605d5d;
+        font-size: 12px;
+        font-family: eszar;
+        text-align: justify;
+        padding: 10px;
+    }
+    section.about>div>div>img:hover~h3{
+        color: #00a2e8;
+    }
+}
